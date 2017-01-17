@@ -1,5 +1,5 @@
 # Sublime Glitch Fixer
-Fixes (actually: works around) rendering issues of Sublime Text on Windows in combination with ConEmu's Quake mode, as explained [here](https://github.com/Maximus5/ConEmu/issues/229) and [https://github.com/SublimeTextIssues/Core/issues/952](here).
+Fixes (actually: works around) rendering issues of Sublime Text on Windows in combination with ConEmu's Quake mode, as explained [here](https://github.com/Maximus5/ConEmu/issues/229) and [here](https://github.com/SublimeTextIssues/Core/issues/952).
 
 ## Installation
 * Download [sublime_glitch_fixer.exe](https://raw.githubusercontent.com/CherryDT/sublime-glitch-fixer/master/sublime_glitch_fixer.exe)
